@@ -7,7 +7,7 @@
   "makeNamesWebStyle": false,
   "allowFoldingHeadings": true,
   "sidebarsAlwaysCollapsible": false,
-  "addFilenameTitle": true,
+  "addFilenameTitle": false,
   "minifyHTML": true,
   "customLineWidth": "",
   "contentWidth": "",
