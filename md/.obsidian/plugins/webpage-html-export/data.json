@@ -7,7 +7,7 @@
   "makeNamesWebStyle": false,
   "allowFoldingHeadings": true,
   "sidebarsAlwaysCollapsible": false,
-  "addFilenameTitle": false,
+  "addFilenameTitle": true,
   "minifyHTML": true,
   "customLineWidth": "",
   "contentWidth": "",
@@ -20,17 +20,25 @@
   "includeOutline": true,
   "includeGraphView": true,
   "includeFileTree": true,
-  "exportPreset": "documents",
-  "openAfterExport": false,
+  "exportPreset": "website",
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
   "graphCentralForce": 3,
-  "graphEdgePruning": 100,
+  "graphEdgePruning": 43,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
   "exportPath": "D:\\Verysync_OneDrive\\OneDrive\\work@OneDrive\\dosc.grosso.link\\docs",
   "filesToExport": [
-    []
+    [
+      "ECU（电子控制单元）接收模拟信号的原因.md",
+      "ECU电子控制单元.md",
+      "index.md",
+      "MLX90510模拟输出的目的.md",
+      "国内外知名的ECU供应商.md",
+      "模拟信号 比 数字信号 抗干扰能力可能更好.md",
+      "第三轨游标算法.md"
+    ]
   ]
 }
